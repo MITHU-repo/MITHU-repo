@@ -42,7 +42,7 @@ Languages
 
 Frameworks & Libraries
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=react,angular,nextjs,vue,svelte,flutter" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=react,angular,nextjs,vue,svelte,flutter,expressjs" /> </p>
 
 State, Styling & Design
 
@@ -54,7 +54,7 @@ Data & APIs
 
 Testing, Build & DevOps
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=webpack,vite,git,github,gitlab,docker,githubactions,vscode,androidstudio" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=webpack,vite,git,github,gitlab,nodejs,docker,githubactions,vscode,androidstudio" /> </p>
 
 
 
