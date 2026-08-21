@@ -79,4 +79,4 @@ Testing, Build & DevOps
   <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=61DAFB&style=for-the-badge" />
 </p>
 
-<p align="center"><i>⭐️ From <a href="https://github.com/MIHU-repo">MITHU</a> — thanks for stopping by!</i></p>
+<p align="center"><i>⭐️ From <a href="https://github.com/MITHU-repo">MITHU</a> — thanks for stopping by!</i></p>
