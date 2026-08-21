@@ -36,7 +36,7 @@ const yourName = {
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nextjs,tailwind,sass,figma,vscode,git" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nextjs,tailwind,sass,figma,vscode,git,flutter" />
 </p>
 
 ---
