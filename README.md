@@ -30,16 +30,31 @@ const yourName = {
 - 🌱 Currently learning: **the newest JS framework du jour**
 - 👯 Looking to collaborate on: **open source UI libraries**
 - ⚡ Fun fact: **I have strong opinions about tabs vs. spaces (spaces, obviously)**
+- 🎨 Off-screen: posting my art on [Pinterest](https://in.pinterest.com/mithulohar/)
 
 ---
 
-### 🛠️ Tech Stack
+🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nextjs,tailwind,sass,figma,vscode,git,flutter" />
-</p>
+Languages
 
----
+<p align="center"> <img src="https://skillicons.dev/icons?i=js,ts,html,css,dart" /> </p>
+
+Frameworks & Libraries
+
+<p align="center"> <img src="https://skillicons.dev/icons?i=react,angular,nextjs,vue,svelte,flutter" /> </p>
+
+State, Styling & Design
+
+<p align="center"> <img src="https://skillicons.dev/icons?i=redux,sass,bootstrap,materialui,figma" /> </p>
+
+Data & APIs
+
+<p align="center"> <img src="https://skillicons.dev/icons?i=firebase,mongodb" /> </p>
+
+Testing, Build & DevOps
+
+<p align="center"> <img src="https://skillicons.dev/icons?i=webpack,vite,git,github,gitlab,docker,githubactions,vscode,androidstudio" /> </p>
 
 
 
