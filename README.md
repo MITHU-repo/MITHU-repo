@@ -38,7 +38,7 @@ const yourName = {
 
 Languages
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=js,ts,html,css,dart" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=js,ts,html,css,dart,java" /> </p>
 
 Frameworks & Libraries
 
