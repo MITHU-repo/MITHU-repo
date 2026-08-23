@@ -42,7 +42,7 @@ Languages
 
 Frameworks & Libraries
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=react,angular,nextjs,vue,svelte,flutter,expressjs" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=react,angular,nextjs,vue,svelte,flutter,expressjs,jquery" /> </p>
 
 State, Styling & Design
 
