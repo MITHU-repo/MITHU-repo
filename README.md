@@ -42,7 +42,9 @@ Languages
 
 Frameworks & Libraries
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=react,angular,nextjs,vue,svelte,flutter,expressjs,jquery" /> </p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,angular,nextjs,vue,svelte,flutter,expressjs,jquery,spring" />
+</p>
 
 State, Styling & Design
 
@@ -50,7 +52,9 @@ State, Styling & Design
 
 Data & APIs
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=firebase,mongodb" /> </p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=firebase,mongodb,postgres" />
+</p>
 
 Testing, Build & DevOps
 
