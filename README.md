@@ -58,7 +58,7 @@ Data & APIs
 
 Testing, Build & DevOps
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=webpack,vite,git,github,gitlab,nodejs,docker,githubactions,vscode,androidstudio" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=webpack,vite,git,github,gitlab,nodejs,docker,githubactions,vscode,androidstudio,maven,gradle" /> </p>
 
 
 
